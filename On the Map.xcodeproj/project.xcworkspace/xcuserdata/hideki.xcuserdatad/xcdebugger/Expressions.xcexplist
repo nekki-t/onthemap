@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UdacityClient.(getStudentLoations(UdacityClient) -&gt; ((success : Bool, error : String?) -&gt; ()) -&gt; ()).(closure #1).(closure #1):UdacityClient.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(getPublicUserData(UdacityClient) -&gt; ((success : Bool, error : String?) -&gt; ()) -&gt; ()).(closure #1).(closure #1):UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.publicUserData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(getParseRequest in _8E4286911A7482790D910C2B226E55E3)(String!, parameters : [String : AnyObject]?) -&gt; NSMutableURLRequest:UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationObjectId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(loginButton(LoginViewController) -&gt; (FBSDKLoginButton!, didCompleteWithResult : FBSDKLoginManagerLoginResult!, error : NSError!) -&gt; ()).(closure #1):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UdacityClient.sharedInstance().facebookToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InformationPostingViewController.(findOnTheMap(InformationPostingViewController) -&gt; (UIButton) -&gt; ()).(closure #1):InformationPostingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.(configureMapView(MapViewController) -&gt; ([StudentInformation]?) -&gt; ()).(closure #1):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static StudentInformation.loadToDictionary([String : AnyObject]) -&gt; ():StudentInformation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dictionary[&quot;results&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(getStudentLoations(UdacityClient) -&gt; ((success : Bool, error : String?) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #1).(closure #1):UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "JSONResult as? [String]">
+            </PersistentString>
+            <PersistentString
+               value = "location[&quot;country&quot;]=&quot;japan&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:ListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "studentInformationArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(getStudentLoations(UdacityClient) -&gt; ((success : Bool, error : String?) -&gt; ()) -&gt; ()).(closure #1).(closure #1).(closure #1):UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapListParentTabBarController.changeLocationTapped() -&gt; ():MapListParentTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Udacity.SharedInstance().pubilcUserData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(postToLogin(UdacityClient) -&gt; (String!, password : String!, completionHandler : (success : Bool, error : String?) -&gt; ()) -&gt; ()).(closure #1).(closure #1):UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "child.key">
+            </PersistentString>
+            <PersistentString
+               value = "JSONResult[&quot;account&quot;][&quot;key&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(postUserLocation(UdacityClient) -&gt; (Double!, lon : Double!, mapString : String!, mediaURL : String!, completionHandler : (success : Bool, error : String?) -&gt; ()) -&gt; ()).(closure #1).(closure #1):UdacityClient.swift">
+      </ContextState>
+      <ContextState
+         contextName = "StudentInformationTableViewCell.(studentInformation.didset).(closure #1):StudentInformationTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placemark.location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InformationPostingViewController.keyboardWillHide(NSNotification) -&gt; ():InformationPostingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "originalY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
